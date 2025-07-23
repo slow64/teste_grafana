@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "login": "cliente01",
+    "status": "online",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "endereco": "Av. Paulista, 1000",
+    "ultima_conexao": "2023-11-15T10:30:00"
+  },
+  {
+    "id": 2,
+    "login": "cliente02",
+    "status": "offline",
+    "latitude": -23.5630,
+    "longitude": -46.6540,
+    "endereco": "Rua Augusta, 500",
+    "ultima_conexao": "2023-11-14T15:45:00"
+  },
+  {
+    "id": 3,
+    "login": "cliente03",
+    "status": "online",
+    "latitude": -23.5700,
+    "longitude": -46.6400,
+    "endereco": "Alameda Santos, 200",
+    "ultima_conexao": "2023-11-15T09:15:00"
+  }
+]
